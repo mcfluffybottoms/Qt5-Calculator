@@ -12,7 +12,9 @@ set(CMAKE_AUTORCC ON)
 set(SRC 
     src/main.cpp 
     src/Calculator.hpp 
+    src/Calculator.cpp
     src/CalculatorWindow.hpp
+    src/CalculatorWindow.cpp
     src/types.hpp
     resources/qml.qrc
 )

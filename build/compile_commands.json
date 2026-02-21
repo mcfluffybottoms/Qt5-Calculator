@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/cumtotheheartchamber/repos/tasks/calculator/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DQT_WIDGETS_LIB -isystem /home/cumtotheheartchamber/repos/tasks/calculator/build/calculator_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtQml -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtQuick -isystem /usr/include/x86_64-linux-gnu/qt5/QtQmlModels -std=gnu++20 -fPIC -o CMakeFiles/calculator.dir/calculator_autogen/mocs_compilation.cpp.o -c /home/cumtotheheartchamber/repos/tasks/calculator/build/calculator_autogen/mocs_compilation.cpp",
+  "file": "/home/cumtotheheartchamber/repos/tasks/calculator/build/calculator_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/calculator.dir/calculator_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/cumtotheheartchamber/repos/tasks/calculator/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DQT_WIDGETS_LIB -isystem /home/cumtotheheartchamber/repos/tasks/calculator/build/calculator_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtQml -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtQuick -isystem /usr/include/x86_64-linux-gnu/qt5/QtQmlModels -std=gnu++20 -fPIC -o CMakeFiles/calculator.dir/src/main.cpp.o -c /home/cumtotheheartchamber/repos/tasks/calculator/src/main.cpp",
+  "file": "/home/cumtotheheartchamber/repos/tasks/calculator/src/main.cpp",
+  "output": "CMakeFiles/calculator.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/cumtotheheartchamber/repos/tasks/calculator/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DQT_WIDGETS_LIB -isystem /home/cumtotheheartchamber/repos/tasks/calculator/build/calculator_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtQml -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtQuick -isystem /usr/include/x86_64-linux-gnu/qt5/QtQmlModels -std=gnu++20 -fPIC -o CMakeFiles/calculator.dir/calculator_autogen/3YJK5W5UP7/qrc_qml.cpp.o -c /home/cumtotheheartchamber/repos/tasks/calculator/build/calculator_autogen/3YJK5W5UP7/qrc_qml.cpp",
+  "file": "/home/cumtotheheartchamber/repos/tasks/calculator/build/calculator_autogen/3YJK5W5UP7/qrc_qml.cpp",
+  "output": "CMakeFiles/calculator.dir/calculator_autogen/3YJK5W5UP7/qrc_qml.cpp.o"
+}
+]

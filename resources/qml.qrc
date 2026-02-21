@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Calculator.qml</file>
+        <file>SecretMenu.qml</file>
+        <file>CalcButton.qml</file>
+        <file>SecretButton.qml</file>
+        <file>MainMenu.qml</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>status_bar.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>icon/bkt.png</file>
+        <file>icon/division.png</file>
+        <file>icon/equal.png</file>
+        <file>icon/minus.png</file>
+        <file>icon/multiplication.png</file>
+        <file>icon/percent.png</file>
+        <file>icon/plus.png</file>
+        <file>icon/plus_minus.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>font/OpenSans-SemiBold.ttf</file>
+    </qresource>
+</RCC>

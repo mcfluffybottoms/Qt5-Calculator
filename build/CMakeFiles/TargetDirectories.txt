@@ -1,0 +1,5 @@
+/home/cumtotheheartchamber/repos/tasks/calculator/build/CMakeFiles/calculator.dir
+/home/cumtotheheartchamber/repos/tasks/calculator/build/CMakeFiles/edit_cache.dir
+/home/cumtotheheartchamber/repos/tasks/calculator/build/CMakeFiles/rebuild_cache.dir
+/home/cumtotheheartchamber/repos/tasks/calculator/build/CMakeFiles/calculator_autogen_timestamp_deps.dir
+/home/cumtotheheartchamber/repos/tasks/calculator/build/CMakeFiles/calculator_autogen.dir

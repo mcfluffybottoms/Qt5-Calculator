@@ -1,0 +1,37 @@
+{
+	"BUILD_DIR" : "/home/cumtotheheartchamber/repos/tasks/calculator/build/calculator_autogen",
+	"CMAKE_BINARY_DIR" : "/home/cumtotheheartchamber/repos/tasks/calculator/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/cumtotheheartchamber/repos/tasks/calculator/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/cumtotheheartchamber/repos/tasks/calculator",
+	"CMAKE_SOURCE_DIR" : "/home/cumtotheheartchamber/repos/tasks/calculator",
+	"GENERATOR" : "Unix Makefiles",
+	"INCLUDE_DIR" : "/home/cumtotheheartchamber/repos/tasks/calculator/build/calculator_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/cumtotheheartchamber/repos/tasks/calculator/resources/MainMenu.qml",
+		"/home/cumtotheheartchamber/repos/tasks/calculator/resources/Calculator.qml",
+		"/home/cumtotheheartchamber/repos/tasks/calculator/resources/status_bar.png",
+		"/home/cumtotheheartchamber/repos/tasks/calculator/resources/SecretButton.qml",
+		"/home/cumtotheheartchamber/repos/tasks/calculator/resources/CalcButton.qml",
+		"/home/cumtotheheartchamber/repos/tasks/calculator/resources/SecretMenu.qml",
+		"/home/cumtotheheartchamber/repos/tasks/calculator/resources/icon/percent.png",
+		"/home/cumtotheheartchamber/repos/tasks/calculator/resources/icon/equal.png",
+		"/home/cumtotheheartchamber/repos/tasks/calculator/resources/icon/division.png",
+		"/home/cumtotheheartchamber/repos/tasks/calculator/resources/icon/bkt.png",
+		"/home/cumtotheheartchamber/repos/tasks/calculator/resources/icon/multiplication.png",
+		"/home/cumtotheheartchamber/repos/tasks/calculator/resources/icon/plus.png",
+		"/home/cumtotheheartchamber/repos/tasks/calculator/resources/icon/minus.png",
+		"/home/cumtotheheartchamber/repos/tasks/calculator/resources/icon/plus_minus.png",
+		"/home/cumtotheheartchamber/repos/tasks/calculator/resources/font/OpenSans-SemiBold.ttf"
+	],
+	"LOCK_FILE" : "/home/cumtotheheartchamber/repos/tasks/calculator/build/CMakeFiles/calculator_autogen.dir/AutoRcc_qml_3YJK5W5UP7_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "3YJK5W5UP7",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt5/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/cumtotheheartchamber/repos/tasks/calculator/build/CMakeFiles/calculator_autogen.dir/AutoRcc_qml_3YJK5W5UP7_Used.txt",
+	"SOURCE" : "/home/cumtotheheartchamber/repos/tasks/calculator/resources/qml.qrc",
+	"VERBOSITY" : 0
+}

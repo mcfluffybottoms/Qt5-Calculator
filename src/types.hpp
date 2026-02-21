@@ -62,6 +62,7 @@ struct Expr {
 	virtual int precedence() = 0;
 	virtual ~Expr() = default;
 };
+
 struct Op : Expr {
 	Op(char o)
 		: op(o)
@@ -95,6 +96,7 @@ struct Op : Expr {
 private:
 	char op;
 };
+
 struct Num : Expr {
 	Num(const std::string & s)
 		: num(std::stof(s))
